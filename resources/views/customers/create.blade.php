@@ -45,6 +45,12 @@
                 <input type="text" pattern="[-+0-9.()]+" name="no_telpon" class="form-control" placeholder="No Telpon">
             </div>
         </div>
+        <div class="col-xs-12 col-sm-12 cold-md-12">
+            <div class="form-group">
+                <strong>ID Card:</strong>
+                <input type="text" pattern="[0-9]+" name="id_card" class="form-control" placeholder="ID Card">
+            </div>
+        </div>
         <div class="col-xs-12 col-sm-12 cold-md-12 text-center">
             <br><button type="submit" class="btn btn-primary">Submit</button>
         </div>
